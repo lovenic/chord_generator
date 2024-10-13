@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { Volume2, Power } from 'lucide-react';
+import { Power } from 'lucide-react';
 
 const notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
 const chordTypes = ['', 'm', '7', 'm7', 'maj7', '6'];
